@@ -24,9 +24,9 @@
 *[11. C++ lesson](https://github.com/tomarcodinglife/html)
 +[12. java lesson](https://github.com/tomarcodinglife/html)
 
-- George Washington
-* John Adams
-+ Thomas Jefferson
+- html       :  [01. html lesson](https://github.com/tomarcodinglife/html)
+* CSS        :  [02. css lesson](https://github.com/tomarcodinglife/html)
++ JavaScript : [03. javascript lesson](https://github.com/tomarcodinglife/html)
 
 <!---
 tomarcodinglife/tomarcodinglife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
