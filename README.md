@@ -5,7 +5,8 @@
 - 📫 How to reach me tomarcodinglife@gmail.com
 - 😄 Pronouns: tomar coding life
 - ⚡ Fun fact: i am too lazy
-
+  
+---
 #Our Learning Source Code
 
 | Language      | Experience    | Project  |  Lesson  |
@@ -21,21 +22,12 @@
 | TypeScript    | 6 Month      | 12     | [TypeScript lesson](https://github.com/tomarcodinglife/html)        |
 | Angular       | 6 Month      | 12     | [Angular lesson](https://github.com/tomarcodinglife/html)           |
 
+---
 
-
--[01. html lesson](https://github.com/tomarcodinglife/html)
-*[02. css lesson](https://github.com/tomarcodinglife/html)
-+[03. javascript lesson](https://github.com/tomarcodinglife/html)
--[04. react lesson](https://github.com/tomarcodinglife/html)
-*[05. node lesson](https://github.com/tomarcodinglife/html)
-+[06. express lesson](https://github.com/tomarcodinglife/html)
--[07. python lesson](https://github.com/tomarcodinglife/html)
-*[08. MongoDB lesson](https://github.com/tomarcodinglife/html)
-+[09. Angular lesson](https://github.com/tomarcodinglife/html)
--[10. TypeScript lesson](https://github.com/tomarcodinglife/html)
 *[11. C++ lesson](https://github.com/tomarcodinglife/html)
 +[12. java lesson](https://github.com/tomarcodinglife/html)
 
+---
 - html
 * CSS
 + JavaScript
@@ -46,6 +38,7 @@
 * MongoDB
 + Angular
 
+---
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
