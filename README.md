@@ -21,12 +21,15 @@
 *[11. C++ lesson](https://github.com/tomarcodinglife/html)
 +[12. java lesson](https://github.com/tomarcodinglife/html)
 
-- html [01. html lesson](https://github.com/tomarcodinglife/html)
+- html
 * CSS
 + JavaScript
 - react  
 * node
 + express
+- python  
+* MongoDB
++ Angular
 
 
 > [!NOTE]
