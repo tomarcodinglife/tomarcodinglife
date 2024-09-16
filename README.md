@@ -8,9 +8,6 @@
 
 #Our Learning Source Code
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
 -[01. html lesson](https://github.com/tomarcodinglife/html)
 *[02. css lesson](https://github.com/tomarcodinglife/html)
 +[03. javascript lesson](https://github.com/tomarcodinglife/html)
@@ -24,7 +21,7 @@
 *[11. C++ lesson](https://github.com/tomarcodinglife/html)
 +[12. java lesson](https://github.com/tomarcodinglife/html)
 
-- html  
+- html [01. html lesson](https://github.com/tomarcodinglife/html)
 * CSS
 + JavaScript
 - react  
