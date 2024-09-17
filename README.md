@@ -11,21 +11,19 @@
 
 | Language      | Experience    | Project  |  Lesson  |
 | ------------- |:-------------:| -----:| -----:|
-| html          | 5 Years      | 27     | [html lesson](https://github.com/tomarcodinglife/html)              |
-| css           | 5 Years      | 27     | [css lesson](https://github.com/tomarcodinglife/html)               |
-| JavaScript    | 3 Years      | 12     | [javascript lesson](https://github.com/tomarcodinglife/html)        |
-| react         | 2 Years      | 12     | [react lesson](https://github.com/tomarcodinglife/html)             |
-| node          | 2 Years      | 12     | [node lesson](https://github.com/tomarcodinglife/html)              |
-| express       | 2 Years      | 12     | [express lesson](https://github.com/tomarcodinglife/html)           |
-| python        | 2 Years      | 12     | [python lesson](https://github.com/tomarcodinglife/html)            |
-| MongoDB       | 2 Years      | 12     | [MongoDB lesson](https://github.com/tomarcodinglife/html)           |
-| TypeScript    | 6 Month      | 12     | [TypeScript lesson](https://github.com/tomarcodinglife/html)        |
-| Angular       | 6 Month      | 12     | [Angular lesson](https://github.com/tomarcodinglife/html)           |
-
----
-
-*[11. C++ lesson](https://github.com/tomarcodinglife/html)
-+[12. java lesson](https://github.com/tomarcodinglife/html)
+| html          | 5 Years       | 27     | [html lesson](https://github.com/tomarcodinglife/html)             |
+| css           | 5 Years       | 27     | [css lesson](https://github.com/tomarcodinglife/html)              |
+| JavaScript    | 3 Years       | 12     | [javascript lesson](https://github.com/tomarcodinglife/html)       |
+| react         | 2 Years       | 5      | [react lesson](https://github.com/tomarcodinglife/html)            |
+| node          | 2 Years       | 3      | [node lesson](https://github.com/tomarcodinglife/html)             |
+| express       | 2 Years       | 2      | [express lesson](https://github.com/tomarcodinglife/html)          |
+| python        | 2 Years       | 5      | [python lesson](https://github.com/tomarcodinglife/html)           |
+| MongoDB       | 2 Years       | 11     | [MongoDB lesson](https://github.com/tomarcodinglife/html)          |
+| TypeScript    | 6 Month       | 8      | [TypeScript lesson](https://github.com/tomarcodinglife/html)       |
+| Angular       | 6 Month       | 4      | [Angular lesson](https://github.com/tomarcodinglife/html)          |
+| php           | 0 Month       | 1      | [Angular lesson](https://github.com/tomarcodinglife/html)          |
+| C++           | Learning      | 0      | [C++ lesson](https://github.com/tomarcodinglife/html)              |
+| Java          | Learning      | 0      | [java lesson](https://github.com/tomarcodinglife/html)             |
 
 ---
 - html
