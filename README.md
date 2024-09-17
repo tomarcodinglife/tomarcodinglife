@@ -19,9 +19,10 @@
 | express       | 2 Years       | 2      | [express lesson](https://github.com/tomarcodinglife/html)          |
 | python        | 2 Years       | 5      | [python lesson](https://github.com/tomarcodinglife/html)           |
 | MongoDB       | 2 Years       | 11     | [MongoDB lesson](https://github.com/tomarcodinglife/html)          |
+| MySQL         | Learning      | 0      | [MySQL](https://github.com/tomarcodinglife/MySQL)             |
 | TypeScript    | 6 Month       | 8      | [TypeScript lesson](https://github.com/tomarcodinglife/html)       |
 | Angular       | 6 Month       | 4      | [Angular lesson](https://github.com/tomarcodinglife/html)          |
-| php           | 0 Month       | 1      | [Angular lesson](https://github.com/tomarcodinglife/html)          |
+| php           | 0 Month       | 1      | [php lesson](https://github.com/tomarcodinglife/php)               |
 | C++           | Learning      | 0      | [C++ lesson](https://github.com/tomarcodinglife/html)              |
 | Java          | Learning      | 0      | [java lesson](https://github.com/tomarcodinglife/html)             |
 
