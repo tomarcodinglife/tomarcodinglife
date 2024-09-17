@@ -23,8 +23,8 @@
 | TypeScript    | 6 Month       | 8      | [TypeScript lesson](https://github.com/tomarcodinglife/Typescript)       |
 | Angular       | 6 Month       | 4      | [Angular lesson](https://github.com/tomarcodinglife/Angular)          |
 | php           | 0 Month       | 1      | [php lesson](https://github.com/tomarcodinglife/php)               |
-| C++           | Learning      | 0      | [C++ lesson](https://github.com/tomarcodinglife/html)              |
-| Java          | Learning      | 0      | [java lesson](https://github.com/tomarcodinglife/html)             |
+| C++           | Learning      | 0      | [C++ lesson](https://github.com/tomarcodinglife/CPP)              |
+| Java          | Learning      | 0      | [java lesson](https://github.com/tomarcodinglife/Java)             |
 
 ---
 - html
