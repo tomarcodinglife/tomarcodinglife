@@ -18,6 +18,16 @@ Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer
 
 I thrive on challenges and am always eager to learn and adapt in this fast-paced tech landscape. Let’s connect and explore opportunities together!
 
+---
+#CODING SKILLS
+- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
+- <img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="">
+- <img src="https://en.wikipedia.org/wiki/File:JavaScript-logo.png" alt="">
+- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
+- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
+- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
+
+
 
 
 ---
