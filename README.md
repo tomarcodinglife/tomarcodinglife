@@ -20,7 +20,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 ---
 #CODING SKILLS
-[html](https://pixabay.com/illustrations/logo-html-html5-icon-2582748/)
+[html](https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_960_720.png)
 
 
 
