@@ -20,12 +20,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 ---
 #CODING SKILLS
-- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
-- <img src="https://en.wikipedia.org/wiki/CSS#/media/File:CSS3_logo_and_wordmark.svg" alt="">
-- <img src="https://en.wikipedia.org/wiki/File:JavaScript-logo.png" alt="">
-- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
-- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
-- <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="">
+[html](https://pixabay.com/illustrations/logo-html-html5-icon-2582748/)
 
 
 
