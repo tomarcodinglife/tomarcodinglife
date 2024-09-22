@@ -1,5 +1,7 @@
 <h1>Hi My Self Sujit Tomar</h1>
+
 ---
+
 - 👋 Hi, I’m @tomarcodinglife
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
@@ -7,6 +9,7 @@
 - 📫 How to reach me tomarcodinglife@gmail.com
 - 😄 Pronouns: tomar coding life
 - ⚡ Fun fact: i am too lazy
+  
 ---
 
 Hello! I’m Sujit Tomar, a passionate Software Engineer with a diverse skill set in both coding and design. With expertise in languages such as HTML, CSS, JavaScript, TypeScript and Python, I build dynamic and efficient applications using frameworks like React, Angular, Node.js, and Express.js. I also have a solid foundation in database management with MongoDB and SQL, and I’m proficient in PHP and C++.
