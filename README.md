@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomarcodinglife
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 How to reach me tomarcodinglife@gmail.com
 - 😄 Pronouns: tomar coding life
