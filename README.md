@@ -21,7 +21,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 ---
 #CODING SKILLS
 ---
-<p><img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/java-script.png" alt="" height="50px"><br>Java Script</p>
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/java-script.png" alt="" height="50px" title="JavaScript">
 
 ---
 #Our Learning Source Code
