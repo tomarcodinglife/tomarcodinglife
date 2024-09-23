@@ -19,10 +19,24 @@ Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer
 I thrive on challenges and am always eager to learn and adapt in this fast-paced tech landscape. Let’s connect and explore opportunities together!
 
 ---
-#CODING SKILLS
+#Programming Skill
 ---
-<p style="text-align: center;"><img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_03java-script.png" alt="" height="100px" title="JavaScript"><br>JavaScript</p>
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_01html.png" alt="" height="100px" title="html">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_02css.png" alt="" height="100px" title="css">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_03java-script.png" alt="" height="100px" title="JavaScript">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_04react.png" alt="" height="100px" title="react js">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_05Node-JS.png" alt="" height="100px" title="node js">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_06angular.png" alt="" height="100px" title="Angular js">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_07python.png" alt="" height="100px" title="python">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_08typescript.png" alt="" height="100px" title="typescript">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09c%2B%2B.png" alt="" height="100px" title="C++">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09java.png" alt="" height="100px" title="java">
 
+---
+#Database Skill
+---
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_01mongodb.png" alt="" height="100px" title="mongoDB">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_02my_sql.png" alt="" height="100px" title="my Sql">
 ---
 #Our Learning Source Code
 
