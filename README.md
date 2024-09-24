@@ -32,7 +32,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 
 ---
-#Graphics Designing
+#Graphics Designing, Video Editing, Visual Effects & UIUX Skills
 ---
 <div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_01AdobePhotoshop.png" alt="" height="100px" title="Photoshop">
