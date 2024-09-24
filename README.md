@@ -1,25 +1,5 @@
 <h1> 👋 Hi My Self <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
-
 ---
-
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on personal projects
-- 📫 How to reach me tomarcodinglife@gmail.com
-- 😄 Pronouns: 'Su' 'Ji' 'T'
-- ⚡ Fun fact: i am too lazy
-  
----
-
-<li>👀 I’m interested in coding</li>
-<li>🌱 I’m currently learning java</li>
-<li>💞️ I’m looking to collaborate on personal projects</li>
-<li>📫 How to reach me tomarcodinglife@gmail.com</li>
-<li>😄 Pronouns: 'Su' 'Ji' 'T'</li>
-<li>⚡ Fun fact: i am too lazy</li>
-<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/img001.gif" alt="" height="" width="400px">
----
-
 Hello! I’m Sujit Tomar, a passionate Software Engineer with a diverse skill set in both coding and design. With expertise in languages such as HTML, CSS, JavaScript, TypeScript and Python, I build dynamic and efficient applications using frameworks like React, Angular, Node.js, and Express.js. I also have a solid foundation in database management with MongoDB and SQL, and I’m proficient in PHP and C++.
 
 Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer. I’m skilled in tools like Photoshop, CorelDRAW, Adobe Illustrator, and InDesign, allowing me to create visually appealing designs that resonate with users. For video editing, I use Filmora, VN Editor, Adobe Premiere Pro, and After Effects to bring my creative visions to life.
@@ -49,6 +29,33 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 <div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_01mongodb.png" alt="" height="100px" title="mongoDB">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_02my_sql.png" alt="" height="100px" title="my Sql">
+</div>
+---
+#Graphics Designing Skill
+---
+<div>
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_01AdobePhotoshop.png" alt="" height="100px" title="Photoshop">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_02AdobeIllustrator.png" alt="" height="100px" title="illustrator">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_03CorelDraw.png" alt="" height="100px" title="CorelDraw">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_04Adobe_Indesign.png" alt="" height="100px" title="InDesign">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_05Canva.png" alt="" height="100px" title="Canva">
+</div>
+
+---
+#Video Editing & Visual Effects Skill
+---
+<div>
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/VE_01AdobePremiere.png" alt="" height="100px" title="Adobe Premiere Pro">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/VE_01AdobeAfterEffect.png" alt="" height="100px" title="Adobe After Effect">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/VE_02WondershareFilmora.png" alt="" height="100px" title="Filmora">
+</div>
+
+---
+#UI & UX Design Skill
+---
+<div>
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_01Figma.png" alt="" height="100px" title="Figma">
+  <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_02AdobeXD.png" alt="" height="100px" title="AdobeXD">
 </div>
 
 
