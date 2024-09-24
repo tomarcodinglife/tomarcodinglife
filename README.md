@@ -1,5 +1,4 @@
 <h1> 👋 Hi My Self <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
----
 Hello! I’m Sujit Tomar, a passionate Software Engineer with a diverse skill set in both coding and design. With expertise in languages such as HTML, CSS, JavaScript, TypeScript and Python, I build dynamic and efficient applications using frameworks like React, Angular, Node.js, and Express.js. I also have a solid foundation in database management with MongoDB and SQL, and I’m proficient in PHP and C++.
 
 Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer. I’m skilled in tools like Photoshop, CorelDRAW, Adobe Illustrator, and InDesign, allowing me to create visually appealing designs that resonate with users. For video editing, I use Filmora, VN Editor, Adobe Premiere Pro, and After Effects to bring my creative visions to life.
@@ -21,8 +20,6 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09c%2B%2B.png" alt="" height="100px" title="C++">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09java.png" alt="" height="100px" title="java">
 </div>
-
-
 ---
 #Database Skill
 ---
@@ -31,7 +28,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_02my_sql.png" alt="" height="100px" title="my Sql">
 </div>
 ---
-#Graphics Designing, Video Editing, Visual Effects & UIUX Skills
+#Graphics Designing
 ---
 <div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_01AdobePhotoshop.png" alt="" height="100px" title="Photoshop">
@@ -45,7 +42,6 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_01Figma.png" alt="" height="100px" title="Figma">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_02AdobeXD.png" alt="" height="100px" title="AdobeXD">
 </div>
-
 ---
 #Our Learning Source Code
 ---
