@@ -20,6 +20,8 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09c%2B%2B.png" alt="" height="100px" title="C++">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09java.png" alt="" height="100px" title="java">
 </div>
+
+
 ---
 #Database Skill
 ---
@@ -27,6 +29,8 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_01mongodb.png" alt="" height="100px" title="mongoDB">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_02my_sql.png" alt="" height="100px" title="my Sql">
 </div>
+
+
 ---
 #Graphics Designing
 ---
@@ -42,6 +46,8 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_01Figma.png" alt="" height="100px" title="Figma">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_02AdobeXD.png" alt="" height="100px" title="AdobeXD">
 </div>
+
+
 ---
 #Our Learning Source Code
 ---
