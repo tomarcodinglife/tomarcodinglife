@@ -31,7 +31,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_02my_sql.png" alt="" height="100px" title="my Sql">
 </div>
 ---
-#Graphics Designing Skill
+#Graphics Designing, Video Editing & Visual Effects & UIUX Skill
 ---
 <div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_01AdobePhotoshop.png" alt="" height="100px" title="Photoshop">
@@ -39,25 +39,12 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_03CorelDraw.png" alt="" height="100px" title="CorelDraw">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_04Adobe_Indesign.png" alt="" height="100px" title="InDesign">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/GD_05Canva.png" alt="" height="100px" title="Canva">
-</div>
-
----
-#Video Editing & Visual Effects Skill
----
-<div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/VE_01AdobePremiere.png" alt="" height="100px" title="Adobe Premiere Pro">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/VE_01AdobeAfterEffect.png" alt="" height="100px" title="Adobe After Effect">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/VE_02WondershareFilmora.png" alt="" height="100px" title="Filmora">
-</div>
-
----
-#UI & UX Design Skill
----
-<div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_01Figma.png" alt="" height="100px" title="Figma">
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/UIUX_02AdobeXD.png" alt="" height="100px" title="AdobeXD">
 </div>
-
 
 ---
 #Our Learning Source Code
