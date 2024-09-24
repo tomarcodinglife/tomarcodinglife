@@ -11,14 +11,12 @@
   
 ---
 
-<ul>
-    <li>👀 I’m interested in coding</li>
-    <li>🌱 I’m currently learning java</li>
-    <li>💞️ I’m looking to collaborate on personal projects</li>
-    <li>📫 How to reach me tomarcodinglife@gmail.com</li>
-    <li>😄 Pronouns: 'Su' 'Ji' 'T'</li>
-    <li>⚡ Fun fact: i am too lazy</li>
-</ul>
+<li>👀 I’m interested in coding</li>
+<li>🌱 I’m currently learning java</li>
+<li>💞️ I’m looking to collaborate on personal projects</li>
+<li>📫 How to reach me tomarcodinglife@gmail.com</li>
+<li>😄 Pronouns: 'Su' 'Ji' 'T'</li>
+<li>⚡ Fun fact: i am too lazy</li>
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/img001.gif" alt="" height="" width="400px">
   
 ---
