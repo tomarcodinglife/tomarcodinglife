@@ -1,13 +1,12 @@
-<h1>Hi My Self <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
+<h1> 👋 Hi My Self <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
 
 ---
 
-- 👋 Hi, I’m @tomarcodinglife
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on personal projects
 - 📫 How to reach me tomarcodinglife@gmail.com
-- 😄 Pronouns: tomar coding life
+- 😄 Pronouns: 'Su' 'Ji' 'T'
 - ⚡ Fun fact: i am too lazy
   
 ---
