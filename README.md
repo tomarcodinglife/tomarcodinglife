@@ -1,4 +1,4 @@
-<h1>Hi My Self @tomarcodinglife of <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
+<h1>Hi My Self <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
 
 ---
 
