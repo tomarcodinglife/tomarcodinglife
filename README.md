@@ -65,15 +65,8 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 | Java          | Learning      | 0      | [java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/iamsujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 
 ---
-- html
-* CSS
-+ JavaScript
-- react  
-* node
-+ express
-- python  
-* MongoDB
-+ Angular
+<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<a href="https://www.buymeacoffee.com/sujitsoftengg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
 
