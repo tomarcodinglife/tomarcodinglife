@@ -10,8 +10,10 @@
 - ⚡ Fun fact: i am too lazy
   
 ---
+
+
 <div style="display: inline;">
-          <div>
+          <span>
             <ul>
               <li>👀 I’m interested in coding</li>
               <li>🌱 I’m currently learning java</li>
@@ -20,10 +22,10 @@
               <li>😄 Pronouns: 'Su' 'Ji' 'T'</li>
               <li>⚡ Fun fact: i am too lazy</li>
             </ul>
-        </div>
-        <div>
+        </span>
+        <span>
           <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/img001.gif" alt="" height="" width="500px">
-        </div>
+        </span>
 </div>
   
 ---
