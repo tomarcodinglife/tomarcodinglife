@@ -5,6 +5,9 @@ Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer
 
 I thrive on challenges and am always eager to learn and adapt in this fast-paced tech landscape. Let’s connect and explore opportunities together!
 
+
+[![](https://github-visits.tomarcodinglife.me/api?username=tomarcodinglife)](https://github.com/tomarcodinglife)
+
 ---
 #Programming Language, Frameworks & Libraries Skills
 ---
