@@ -20,8 +20,6 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=tomarcodinglife&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e">](https://github.com/tomarcodinglife/)
 []()
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tomarcodinglife&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 ---
 #Programming Language, Frameworks & Libraries Skills
 ---
