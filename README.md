@@ -13,7 +13,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ytomarcodinglife&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/tomarcodinglife)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tomarcodinglife&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/tomarcodinglife)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tomarcodinglife&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
