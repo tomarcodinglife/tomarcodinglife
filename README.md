@@ -95,19 +95,19 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 ---
 
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> This repository is for learning purposes only..
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> You must spend some time every day to code.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> You must create a final project every week or month.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Keep yourself updated with new updates of programming language.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Keep your code browser oriented and multiple device oriented.
 
 
 <!---
