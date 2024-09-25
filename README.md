@@ -6,7 +6,7 @@ Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer
 I thrive on challenges and am always eager to learn and adapt in this fast-paced tech landscape. Let’s connect and explore opportunities together!
 
 ---
-#Programming Language, Frameworks & Libraries Skill
+#Programming Language, Frameworks & Libraries Skills
 ---
 <div>
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_01html.png" alt="" height="100px" title="html">
@@ -23,7 +23,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 
 ---
-#Database Skill
+#Database Skills
 ---
 <div>
   <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/db_01mongodb.png" alt="" height="100px" title="mongoDB">
