@@ -1,4 +1,8 @@
 <h1> 👋 Hi My Self <a href="https://github.com/iamsujittomar">Sujit Tomar</a></h1>
+
+[<img align="right" width="50%" src="https://readme-stats.jader.me/api?username=Jader&show_icons=true&hide=contribs,issues&bg_color=1a2a6c,b21f1f,fdbb2d&title_color=fff&text_color=fff">](https://github.com/Jader)
+[]()
+
 Hello! I’m Sujit Tomar, a passionate Software Engineer with a diverse skill set in both coding and design. With expertise in languages such as HTML, CSS, JavaScript, TypeScript and Python, I build dynamic and efficient applications using frameworks like React, Angular, Node.js, and Express.js. I also have a solid foundation in database management with MongoDB and SQL, and I’m proficient in PHP and C++.
 
 Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer. I’m skilled in tools like Photoshop, CorelDRAW, Adobe Illustrator, and InDesign, allowing me to create visually appealing designs that resonate with users. For video editing, I use Filmora, VN Editor, Adobe Premiere Pro, and After Effects to bring my creative visions to life.
@@ -6,7 +10,6 @@ Beyond coding, I enjoy crafting engaging user experiences as a Graphics Designer
 I thrive on challenges and am always eager to learn and adapt in this fast-paced tech landscape. Let’s connect and explore opportunities together!
 
 
-[![](https://github-visits.tomarcodinglife.me/api?username=tomarcodinglife)](https://github.com/tomarcodinglife)
 
 ---
 #Programming Language, Frameworks & Libraries Skills
