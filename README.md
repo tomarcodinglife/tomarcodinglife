@@ -72,7 +72,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 ---
 #Our Learning Source Code
 ---
-| Language      | Experience    |  Lesson                                                              | Small Project Link                           | Large Project Link  | 
+| Language      | Experience    |  Learning Materials                                                  | Small Project Link                           | Large Project Link  | 
 | ------------- |:-------------:| --------------------------------------------------------------------:| --------------------------------------------:| ---------------------:|
 | html          | 5 Years       |  [html lesson](https://github.com/tomarcodinglife/html)              | [Click Me](https://github.com/iamsujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | css           | 5 Years       |  [css lesson](https://github.com/tomarcodinglife/css)                | [Click Me](https://github.com/iamsujittomar) | [Click Here](https://github.com/sujitsoftengg) |
