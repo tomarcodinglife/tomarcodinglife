@@ -99,7 +99,13 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 |          01           |           MyTube            |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
 
 
+
 ---
+# Our Small Level Work Projects
+---
+|         S.N.          |        Project Name         |             Technology Used                 |  Project Link                                         |
+| ----------------------| --------------------------- |:-------------------------------------------:| -----------------------------------------------------:|
+|          01           | Digital Clock with Calendar |          HTML, CSS, JS,                     |  [Click Me](https://github.com/sujittomar)            |
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/sujitsoftengg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
