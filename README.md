@@ -93,13 +93,14 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 ---
 #Work Projects
+---
 
-## Our Professional Level Work Projects
+### Our Professional Level Work Projects
 |         S.N.          |        Project Name         |             Technology Used                 |  Project Link                                         |
 | ----------------------| --------------------------- |:-------------------------------------------:| -----------------------------------------------------:|
 |          01           |           MyTube            |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
 
-## Our Small Level Work Projects
+### Our Small Level Work Projects
 
 |         S.N.          |        Project Name         |             Technology Used                 |  Project Link                                         |
 | ----------------------| --------------------------- |:-------------------------------------------:| -----------------------------------------------------:|
