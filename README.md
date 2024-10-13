@@ -98,13 +98,31 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 ### Our Professional Level Work Projects
 |         S.N.          |        Project Name         |             Technology Used                 |  Project Link                                         |
 | ----------------------| --------------------------- |:-------------------------------------------:| -----------------------------------------------------:|
-|          01           |           MyTube            |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
+|          01           |       TomarTube             |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
+|          02           |      Tomar Musics           |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
+|          03           |      E-Commerce             |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
+|          04           |      Hotel Booking          |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
+|          05           |      Councelling Portal     |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
 
 ### Our Small Level Work Projects
 
 |         S.N.          |        Project Name         |             Technology Used                 |  Project Link                                         |
 | ----------------------| --------------------------- |:-------------------------------------------:| -----------------------------------------------------:|
-|          01           | Digital Clock with Calendar |          HTML, CSS, JS,                     |  [Click Me](https://github.com/sujittomar)            |
+|          01           | Digital Clock with Calendar |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          02           |        SignIn SignUp        |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          03           |          Card Design        |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          04           |          Testimonial        |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          05           |          FAQ Page           |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          06           |      Blog List Page         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          07           |         To do List          |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          08           |      Contact Us Page        |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          09           |      Registration Form      |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          10           |      Rock paper Scissors    |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          11           |          To do List         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          12           |      Registration Form      |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          13           |      Rock paper Scissors    |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          14           |          To do List         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
+|          15           |          To do List         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
 
 
 
