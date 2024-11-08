@@ -100,11 +100,11 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 ### Our Professional Level Work Projects
 |         S.N.          |        Project Name         |             Technology Used                 |  Project Link                                         |
 | ----------------------| --------------------------- |:-------------------------------------------:| -----------------------------------------------------:|
-|          01           |       TomarTube             |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
-|          02           |      Tomar Musics           |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
-|          03           |      E-Commerce             |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
-|          04           |      Hotel Booking          |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
-|          05           |      Councelling Portal     |          HTML, CSS, JS, MongoDB             |  [Click Me](https://github.com/iamsujittomar)         |
+|          01           |       TomarTube             |          HTML, CSS, JS, React, MongoDB      |  [Click Me](https://github.com/iamsujittomar)         |
+|          02           |      Tomar Musics           |          HTML, CSS, JS, React, MongoDB      |  [Click Me](https://github.com/iamsujittomar)         |
+|          03           |      E-Commerce             |          HTML, CSS, JS, React, MongoDB      |  [Click Me](https://github.com/iamsujittomar)         |
+|          04           |      Hotel Booking          |          HTML, CSS, JS, React, MongoDB      |  [Click Me](https://github.com/iamsujittomar)         |
+|          05           |      Councelling Portal     |          HTML, CSS, JS, React, MongoDB      |  [Click Me](https://github.com/iamsujittomar)         |
 
 ### Our Small Level Work Projects
 
