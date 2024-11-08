@@ -121,10 +121,6 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 |          09           |      Registration Form      |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
 |          10           |      Rock paper Scissors    |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
 |          11           |          To do List         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
-|          12           |      Registration Form      |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
-|          13           |      Rock paper Scissors    |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
-|          14           |          To do List         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
-|          15           |          To do List         |              HTML, CSS, JS,                 |    [Click Me](https://github.com/sujittomar)          |
 
 
 
