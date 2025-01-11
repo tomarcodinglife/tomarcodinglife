@@ -32,7 +32,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 </div>
 
 
----
+
 #Database Skills
 ---
 <div>
@@ -41,7 +41,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 </div>
 
 
----
+
 #Graphics Designing, Video Editing, Visual Effects & UIUX Skills
 ---
 <div>
@@ -59,7 +59,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 
 
----
+
 #My GitHub contributions summary
 ---
 
@@ -72,7 +72,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 
 
----
+
 #Our Learning Source Code
 ---
 | Language      | Experience    |  Learning Materials                                                  | Small Project Link                           | Large Project Link  |
@@ -96,7 +96,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 
 
 
----
+
 #Work Projects
 ---
 
