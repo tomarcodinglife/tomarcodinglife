@@ -24,6 +24,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_06angular.png" alt="" height="100px" title="Angular js">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_13svelte.png" alt="" height="100px" title="svelte">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_11php.png" alt="" height="100px" title="php">
+<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_15laravel.png" alt="" height="100px" title="Laravel">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_07python.png" alt="" height="100px" title="python">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_08typescript.png" alt="" height="100px" title="typescript">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09c%2B%2B.png" alt="" height="100px" title="C++">
