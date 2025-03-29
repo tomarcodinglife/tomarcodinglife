@@ -22,8 +22,6 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09tailwindcss.png" alt="" height="100px" title="tailwind css">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_05Node-JS.png" alt="" height="100px" title="node js">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_06angular.png" alt="" height="100px" title="Angular js">
-<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_11php.png" alt="" height="100px" title="php">
-<img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_15laravel.png" alt="" height="100px" title="Laravel">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_07python.png" alt="" height="100px" title="python">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_08typescript.png" alt="" height="100px" title="typescript">
 <img src="https://github.com/tomarcodinglife/tomarcodinglife/blob/main/pl_09c%2B%2B.png" alt="" height="100px" title="C++">
@@ -88,8 +86,9 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 | MySQL         | Learning      |  [MySQL](https://github.com/tomarcodinglife/MySQL)                   | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | TypeScript    | 6 Month       |  [TypeScript lesson](https://github.com/tomarcodinglife/Typescript)  | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | Angular       | 6 Month       |  [Angular lesson](https://github.com/tomarcodinglife/Angular)        | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| php           | 0 Month       |  [php lesson](https://github.com/tomarcodinglife/php)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| C++           | Learning      |  [C++ lesson](https://github.com/tomarcodinglife/CPP)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| php           | 12 Month       |  [php lesson](https://github.com/tomarcodinglife/php)               | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| C++           | 12 Month      |  [C++ lesson](https://github.com/tomarcodinglife/CPP)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| C#           | 12 Month      |  [C++ lesson](https://github.com/tomarcodinglife/C-Sharp)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | Java          | Learning      |  [Java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | Spring Boot   | Learning      |  [Spring Boot lesson](https://github.com/tomarcodinglife/Spring-Boot)| [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 
