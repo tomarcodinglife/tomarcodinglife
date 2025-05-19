@@ -92,14 +92,6 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 | Java          | Learning      |  [Java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | Spring Boot   | Learning      |  [Spring Boot lesson](https://github.com/tomarcodinglife/Spring-Boot)| [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 
-## Frameworks and Libraries -
-[![React](https://github-readme-stats.vercel.app/api/pin/?username=tomarcodinglife&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tomarcodinglife/React)
-[![Angular](https://github-readme-stats.vercel.app/api/pin/?username=tomarcodinglife&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tomarcodinglife/Angular)
-[![Laravel](https://github-readme-stats.vercel.app/api/pin/?username=tomarcodinglife&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tomarcodinglife/Laravel)
-[![Django](https://github-readme-stats.vercel.app/api/pin/?username=tomarcodinglife&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tomarcodinglife/django)
-[![ASP.NET Core](https://github-readme-stats.vercel.app/api/pin/?username=tomarcodinglife&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tomarcodinglife/AspNetCore)
-[![Spring](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=tomarcodinglife&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/tomarcodinglife/Spring-Boot)
-
 
 
 
