@@ -91,7 +91,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 | TypeScript    | 6 Month       |  [TypeScript lesson](https://github.com/tomarcodinglife/Typescript)  | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | php           | 12 Month       |  [php lesson](https://github.com/tomarcodinglife/php)               | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | C++           | 12 Month      |  [C++ lesson](https://github.com/tomarcodinglife/CPP)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| Java          | Learning      |  [Java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| Java          | 6 Month      |  [Java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | Spring Boot   | Learning      |  [Spring Boot lesson](https://github.com/tomarcodinglife/Spring-Boot)| [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 
 
