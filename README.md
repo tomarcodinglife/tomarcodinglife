@@ -87,7 +87,7 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 | python        | 2 Years       |  [Python lesson](https://github.com/tomarcodinglife/Python)          | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | django        | 2 Years       |  [django lesson](https://github.com/tomarcodinglife/django)          | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | MongoDB       | 2 Years       |  [MongoDB lesson](https://github.com/tomarcodinglife/MongoDB)        | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| MySQL         | Learning      |  [MySQL](https://github.com/tomarcodinglife/MySQL)                   | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| MySQL         | 3 Year      |  [MySQL](https://github.com/tomarcodinglife/MySQL)                   | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | TypeScript    | 6 Month       |  [TypeScript lesson](https://github.com/tomarcodinglife/Typescript)  | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | php           | 3 Year       |  [php lesson](https://github.com/tomarcodinglife/php)               | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | C++           | 3 Year      |  [C++ lesson](https://github.com/tomarcodinglife/CPP)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
