@@ -89,10 +89,10 @@ I thrive on challenges and am always eager to learn and adapt in this fast-paced
 | MongoDB       | 2 Years       |  [MongoDB lesson](https://github.com/tomarcodinglife/MongoDB)        | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | MySQL         | Learning      |  [MySQL](https://github.com/tomarcodinglife/MySQL)                   | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | TypeScript    | 6 Month       |  [TypeScript lesson](https://github.com/tomarcodinglife/Typescript)  | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| php           | 12 Month       |  [php lesson](https://github.com/tomarcodinglife/php)               | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| php           | 3 Year       |  [php lesson](https://github.com/tomarcodinglife/php)               | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 | C++           | 12 Month      |  [C++ lesson](https://github.com/tomarcodinglife/CPP)                | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| Java          | 6 Month      |  [Java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
-| Spring Boot   | Learning      |  [Spring Boot lesson](https://github.com/tomarcodinglife/Spring-Boot)| [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| Java          | 2 Year      |  [Java lesson](https://github.com/tomarcodinglife/Java)              | [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
+| Spring Boot   | 6 Month      |  [Spring Boot lesson](https://github.com/tomarcodinglife/Spring-Boot)| [Click Me](https://github.com/sujittomar) | [Click Here](https://github.com/sujitsoftengg) |
 
 
 
